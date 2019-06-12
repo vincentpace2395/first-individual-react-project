@@ -1,5 +1,6 @@
 import React from 'react';
 
+// UserInput component taking text to update username
 const userInput = props => {
     const style = {
         border: '2px solid blue'

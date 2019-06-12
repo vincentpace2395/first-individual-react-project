@@ -1,6 +1,7 @@
 import React from 'react';
 import './UserOutput.css'
 
+// UserOutput component displays username
 const userOutput = props => {
     return (
         <div className="user-output">

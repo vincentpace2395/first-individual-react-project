@@ -2,6 +2,7 @@ import React from 'react';
 import UserInput from './Components/UserInput';
 import UserOutput from './Components/UserOutput';
 
+// App component
 class App extends React.Component {
    state = {
        username: "vpace"
